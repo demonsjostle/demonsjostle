@@ -1,6 +1,8 @@
-Hey 👋 What's my name ?
+Hey 👋 There! 
 
+#My name is Kiatisak Somkhunnguen
+##Nickname: Mon
 
 
 My website demonsjostle.com
-My discord 
+My discord: https://discord.gg/UTuXry372f
