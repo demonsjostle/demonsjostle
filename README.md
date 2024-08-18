@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Demons Jostle</h1>
 
-![](https://komarev.com/ghpvc/?username=your_username&color=give_your_color)
+![](https://komarev.com/ghpvc/?username=demonsjostle&color=fb4362)
 
 
 
